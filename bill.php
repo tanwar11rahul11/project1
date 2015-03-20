@@ -1,3 +1,0 @@
-<?php
-//online fees 
-?>
